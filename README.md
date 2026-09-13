@@ -1,63 +1,54 @@
 <div align="center">
 
-# Hi, I'm Alan Hsu 👋
+<img src="https://github.com/xsoway.png?size=160" width="104" height="104" alt="Alan Hsu" />
 
-**把 AI 的能力，做成能落地、能验证、能复用的工程工具。**
+# Alan Hsu
 
-🎒 离开乏味的皮囊，自由的灵魂在路上
+### X·myLog — building useful AI systems, then writing down what held up.
 
-`AI` · `技术` · `经验` · `旅行` · `音乐` · `电影`
-
-[![GitHub](https://img.shields.io/badge/GitHub-xsoway-181717?logo=github&logoColor=white)](https://github.com/xsoway)
+<a href="https://xsoway.github.io"><img src="https://img.shields.io/badge/READ_THE_BLOG-xsoway.github.io-111111?style=for-the-badge&logo=githubpages&logoColor=white" alt="Read the blog" /></a>
+<a href="https://github.com/xsoway"><img src="https://img.shields.io/badge/GitHub-xsoway-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://x.com/AlanHsu521"><img src="https://img.shields.io/badge/X-@AlanHsu521-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
 
 </div>
 
-## 正在关注
+> 把 AI 的能力，做成能落地、能验证、能复用的工程工具。
 
-- **Agent 与 Skills**：让 AI 从“会回答”走向可组合、可执行的工作流。
-- **测试与质量工程**：将性能测试、自动化与报告分析连接成可追溯的闭环。
-- **个人知识与内容工具**：降低信息沉淀、检索和创作的摩擦。
+我是一名测试开发工程师，也持续研究 AI Agent、Skills 和个人知识工具。这里放的是正在做的项目；更完整的过程、复盘和随感，写在 [xsoway.github.io](https://xsoway.github.io)。
 
-也记录随感、生活中的发现，以及值得分享的工具与作品。
+## Focus
 
-## Featured projects
+| Direction | What I care about |
+| --- | --- |
+| **Agent & Skills** | 把“会回答”的模型，组织为可组合、可执行、可复用的工作流。 |
+| **Testing & Quality** | 让性能测试、自动化、报告分析形成有证据、可追溯的质量闭环。 |
+| **Knowledge & Content** | 连接阅读、笔记与创作，减少信息沉淀和再次使用之间的摩擦。 |
 
-### [locust-perf-framework](https://github.com/xsoway/locust-perf-framework)
+## Selected work
 
-基于 Python + Locust 的通用性能测试框架，覆盖从压测方案、脚本和原始数据，到中文分析报告与 LLM 辅助总结的完整流程。
+| Project | Notes |
+| --- | --- |
+| [locust-perf-framework](https://github.com/xsoway/locust-perf-framework) | Python + Locust 性能测试工程；从压测方案、脚本、原始数据到中文报告和 LLM 辅助总结。 |
+| [Skills](https://github.com/xsoway/Skills) | 面向 Codex、OpenCode 与 Pi 的 Skills、Agent 与扩展实践。 |
+| [kk-ai](https://github.com/xsoway/kk-ai) | 将高频开发任务沉淀为可复用的 AI 工作能力。 |
+| [Obsidian-Brain-OS](https://github.com/xsoway/Obsidian-Brain-OS) · [weread_to_notion](https://github.com/xsoway/weread_to_notion) | 个人知识管理工具：连接阅读、笔记和工作流。 |
+| [WeMD](https://github.com/xsoway/WeMD) · [AI_doc_platform](https://github.com/xsoway/AI_doc_platform) | 面向内容创作和智能文档的工具探索。 |
 
-`Python` · `Locust` · `Performance Testing` · `LLM`
+## Elsewhere
 
-### [Skills](https://github.com/xsoway/Skills) · [kk-ai](https://github.com/xsoway/kk-ai)
+🎒 离开乏味的皮囊，自由的灵魂在路上。
 
-收集并实践面向 Codex、OpenCode 与 Pi 的 Skills、Agent 和扩展，把重复性的开发工作沉淀为可复用能力。
+AI、技术、经验之外，也记录旅行、音乐、电影和生活里值得带走的部分。
 
-`AI Agents` · `Skills` · `Developer Experience`
-
-### [Obsidian-Brain-OS](https://github.com/xsoway/Obsidian-Brain-OS) · [weread_to_notion](https://github.com/xsoway/weread_to_notion)
-
-围绕个人知识管理的工具实践：将阅读、笔记和工作流连接起来，让信息更容易回到使用场景。
-
-`Knowledge Management` · `Obsidian` · `Notion` · `Python`
-
-## Also building
-
-- [running_page](https://github.com/xsoway/running_page) — 记录与展示跑步数据的个人主页。
-- [WeMD](https://github.com/xsoway/WeMD) — 更优雅的 Markdown 公众号编辑器。
-- [AI_doc_platform](https://github.com/xsoway/AI_doc_platform) — 基于大模型的智能文档生成平台。
-
----
-
-## Connect
-
-- Email: xulanzhong521@gmail.com
-- Twitter: [@AlanHsu521](https://x.com/AlanHsu521)
-- Telegram: [@AlanHsu521](https://t.me/AlanHsu521)
-- WeChat: `Alan_Hsu_521`
-- 公众号: **自由的灵魂在路上** · `xsoway`
+- Blog — [xsoway.github.io](https://xsoway.github.io)
+- Email — [xulanzhong521@gmail.com](mailto:xulanzhong521@gmail.com)
+- X / Twitter — [@AlanHsu521](https://x.com/AlanHsu521)
+- Telegram — [@AlanHsu521](https://t.me/AlanHsu521)
+- WeChat — `Alan_Hsu_521`
+- 公众号 — **自由的灵魂在路上** · `xsoway`
 
 <div align="center">
 
-探索全部项目：<a href="https://github.com/xsoway?tab=repositories">github.com/xsoway</a>
+<sub><a href="https://github.com/xsoway?tab=repositories">Explore all repositories</a> · <a href="https://xsoway.github.io/archive/">Browse the archive</a></sub>
 
 </div>
