@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/xsoway.png?size=160" width="104" height="104" alt="Alan Hsu" />
-
 # Alan Hsu
 
-### X·myLog — building useful AI systems, then writing down what held up.
+🎒 离开乏味的皮囊，自由的灵魂在路上
 
 <a href="https://xsoway.github.io"><img src="https://img.shields.io/badge/READ_THE_BLOG-xsoway.github.io-111111?style=for-the-badge&logo=githubpages&logoColor=white" alt="Read the blog" /></a>
 <a href="https://github.com/xsoway"><img src="https://img.shields.io/badge/GitHub-xsoway-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
