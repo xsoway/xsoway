@@ -1,0 +1,38 @@
+name: generate-snake-game
+
+on:
+  schedule:
+    # 每天 UTC 00:00 重新生成一次贡献蛇
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+
+      - name: generate github-contribution-grid-snake.svg
+        uses: platane/snk/svg-only@v3
+        with:
+          github_user_name: xsoway
+          outputs: |
+            github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: commit updated snake svg
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: regenerate contribution snake"
+          file_pattern: github-contribution-grid-snake-dark.svg
+          skip_fetch: true
+          skip_dirty_check: false

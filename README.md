@@ -106,7 +106,6 @@
 ### 🌱 Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/xsoway"><img src="https://img.shields.io/badge/GitHub_Since-2023-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub since 2023" /></a>
-  <a href="https://github.com/xsoway?tab=repositories"><img src="https://img.shields.io/badge/Public_Repositories-166-2A6F97?style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories 166" /></a>
-  <a href="https://github.com/xsoway?tab=repositories"><img src="https://img.shields.io/badge/Total_Stars-28-F75C7E?style=for-the-badge&logo=github&logoColor=white" alt="Total Stars 28" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/xsoway/xsoway@main/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
+
