@@ -14,7 +14,7 @@
 <p align="center">🎒 离开乏味的皮囊，自由的灵魂在路上</p>
 
 <p align="center">
-  <a href="https://xsoway.github.io"><img src="https://img.shields.io/badge/Blog-xsoway.github.io-181717?style=for-the-badge&logo=githubpages&logoColor=white" alt="Blog"></a>
+  <a href="https://xsoway.github.io"><img src="https://img.shields.io/badge/Blog-xsoway.github.io-181717?style=for-the-badge&logoColor=white" alt="Blog"></a>
   <a href="https://x.com/AlanHsu521"><img src="https://img.shields.io/badge/X-@AlanHsu521-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"></a>
   <a href="https://t.me/AlanHsu521"><img src="https://img.shields.io/badge/Telegram-@AlanHsu521-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="mailto:xulanzhong521@gmail.com"><img src="https://img.shields.io/badge/Email-xulanzhong521%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -91,7 +91,7 @@
 ### 📫 Connect
 
 <p align="center">
-  <a href="https://xsoway.github.io"><img src="https://img.shields.io/badge/-Blog-xsoway.github.io-181717?style=for-the-badge&logo=githubpages&logoColor=white" alt="Blog" /></a>
+  <a href="https://xsoway.github.io"><img src="https://img.shields.io/badge/Blog-xsoway.github.io-181717?style=for-the-badge&logoColor=white" alt="Blog" /></a>
   <a href="mailto:xulanzhong521@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://x.com/AlanHsu521"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://t.me/AlanHsu521"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
