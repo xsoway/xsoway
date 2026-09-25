@@ -106,9 +106,11 @@
 ### 🌱 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xsoway/xsoway/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./github-contribution-grid-snake-dark.svg" />
+    <img src="./github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  </picture>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xsoway&color=blueviolet&style=flat" alt="Profile views" />
 </p>
