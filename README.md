@@ -22,7 +22,7 @@
 
 ---
 
-### <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-bbbd-e871d8013f0a.gif" width="16" /> About Me
+### 🔍 About Me
 
 > 把 AI 的能力，做成**能落地、能验证、能复用**的工程工具。
 
@@ -42,16 +42,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xsoway&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsoway&layout=compact&hide_border=true&theme=radical" alt="Top Languages" width="42%" />
+  <img src="https://img.shields.io/badge/Public_Repositories-166-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Total_Stars-28-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Followers-3-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xsoway&hide_border=true&theme=radical" alt="GitHub Streak" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xsoway&theme=radical&no-bg=true&no-frame=true&column=6" alt="GitHub Trophy" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xsoway&hide_border=true&theme=radical" alt="GitHub Streak" />
 </p>
 
 ### 🏆 Selected Projects
